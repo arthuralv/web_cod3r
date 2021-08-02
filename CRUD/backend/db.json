@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta azul",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Caneta vermelha",
+            "price": 6.57
+        },
+        {
+            "id": 3,
+            "name": "Notebook Gamer Samsung",
+            "price": 6700.23
+        },
+        {
+            "id": 4,
+            "name": "Notebook MacPro",
+            "price": 12000.45
+        }
+    ]
+} 
